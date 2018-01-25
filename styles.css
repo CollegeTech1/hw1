@@ -1,0 +1,22 @@
+/* Your CSS code goes in this file. */
+
+/* h1{ font-family: "times new roman"} */
+
+/* h1{
+  border: solid 10px black;
+  margin: 100px;
+  padding: 50px;
+} */
+
+body{ font-family: "times new roman";
+  width: 960px;
+  /* height: 960; */
+  margin: 20px auto;
+}
+.important{ background-color: Orange; font-size: 22px}
+h1{ color: gray; border: 20 Orange; }
+span{ background-color: yellow}
+div{ border: solid 10px yellow;
+     padding: 20px;
+
+   }
